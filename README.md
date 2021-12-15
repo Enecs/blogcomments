@@ -1,1 +1,1 @@
-[comments](https://github.com/Enecs/blogcomments/discussions/categories/general)
+[Comments](https://github.com/Enecs/blogcomments/discussions/categories/general) - [Blog](https://blog.enx.so)
